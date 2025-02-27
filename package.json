@@ -40,18 +40,17 @@
   },
   "prettier": "@moonjellydigital/prettier-config",
   "devDependencies": {
-    "@eslint/js": "^9.20.0",
+    "@eslint/js": "^9.21.0",
     "@moonjellydigital/prettier-config": "^1.0.0",
     "@types/eslint-config-prettier": "^6.11.3",
-    "@types/eslint__js": "^8.42.3",
     "@types/prettier": "^3.0.0",
-    "eslint": "^9.20.0",
-    "eslint-config-prettier": "^10.0.1",
+    "eslint": "^9.21.0",
+    "eslint-config-prettier": "^10.0.2",
     "eslint-plugin-jsdoc": "^50.6.3",
     "husky": "^9.1.7",
     "lint-staged": "^15.4.3",
-    "prettier": "^3.4.2",
+    "prettier": "^3.5.2",
     "typescript": "^5.7.3",
-    "typescript-eslint": "^8.23.0"
+    "typescript-eslint": "^8.25.0"
   }
 }
